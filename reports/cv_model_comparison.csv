@@ -1,0 +1,7 @@
+Модель,Найкращі параметри,CV F1,CV F1 std,CV Recall,CV ROC AUC,"Час, с"
+LogisticRegression,"penalty=l2, C=100",0.7536,0.0447,0.7433,0.8342,0.706
+k-NN,"n_neighbors=15, metric=euclidean",0.6806,0.03,0.6242,0.8048,0.641
+GaussianNB,default,0.4924,0.1502,0.4104,0.7349,0.575
+LDA,solver=svd,0.7568,0.0491,0.7433,0.8433,0.58
+QDA (reg=0.1),reg_param=0.1,0.6822,0.0358,0.6519,0.807,0.613
+SVM,"kernel=linear, C=0.1",0.761,0.0589,0.761,0.8561,0.626

@@ -1,0 +1,2 @@
+Фінальна модель,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC AUC
+"SVM (kernel=linear, C=0.1)",0.6557,0.64,0.5714,0.6038,0.7522
